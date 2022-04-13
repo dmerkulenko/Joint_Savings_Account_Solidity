@@ -39,7 +39,7 @@ To automate the creation of joint savings accounts, I am creating a Solidity sma
 ### Execution Results
 
 ## Set Accounts
-![set-accounts](Execution_Results/set-accounts_1.png)
+![set-accounts](Execution_Results/set_accounts_1.png)
 
 ## Deposit 1 Ether as Wei
 ![set-accounts](Execution_Results/1_ether_deposit.png)
