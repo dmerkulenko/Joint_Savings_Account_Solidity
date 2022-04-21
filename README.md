@@ -51,7 +51,7 @@ To automate the creation of joint savings accounts, I am creating a Solidity sma
 ![set-accounts](Execution_Results/5_ether_deposit.png)
 
 ## Withdraw 5 Ether as Wei into account1
-![set-accounts](Execution_Results/withdraw-5.png)
+![set-accounts](Execution_Results/withdraw_5.png)
 
 ## Withdraw 10 Ether as Wei into account2
-![set-accounts](Execution_Results/withdraw-10.png)
+![set-accounts](Execution_Results/withdrawal_10.png)
